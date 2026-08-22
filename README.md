@@ -9,4 +9,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/mayurigade-hub/sql-interview-questions/tree/master/0620-not-boring-movies) |
 | [1251-average-selling-price](https://github.com/mayurigade-hub/sql-interview-questions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/mayurigade-hub/sql-interview-questions/tree/master/1280-students-and-examinations) |
+| [1934-confirmation-rate](https://github.com/mayurigade-hub/sql-interview-questions/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
